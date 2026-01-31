@@ -13,7 +13,7 @@ export function Generator({ debugMode, terminalConnections, selectedTerminal, on
   return (
     <div className="relative w-full mx-auto" style={{ maxWidth: '900px' }}>
       <img
-        src="/copie_de_phase_1-10.png"
+        src="./copie_de_phase_1-10.png"
         alt="Générateur Triphasé GT14"
         className="w-full h-auto"
         draggable={false}
