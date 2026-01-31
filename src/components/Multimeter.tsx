@@ -74,7 +74,7 @@ export function Multimeter({
   return (
     <div className="relative w-full max-w-md mx-auto">
       <img
-        src="/orange_brown_minimalist_school_logo-101.png"
+        src="./orange_brown_minimalist_school_logo-101.png"
         alt="Multimètre"
         className="w-full h-auto block"
         draggable={false}
